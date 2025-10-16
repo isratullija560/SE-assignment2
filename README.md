@@ -17,7 +17,7 @@ The initial version prints “Hello, World!”, and I modified it in another fea
 
 feature-1 => Hello, World!
 
-feature-2 => Hello! Benign John
+feature-2 => Hello! Lija
 
 
 ---
@@ -28,7 +28,7 @@ Follow these steps to clone and run the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/johnbenign/SE-assignment2.git
+git clone https://github.com/isratullija560/SE-assignment2.git
 
 # 2. Navigate into the project directory
 cd SE-assignment2
@@ -45,7 +45,7 @@ git checkout -b feature-1
 
 => Hello, World!
 
-=> Hello! Benign John
+=> Hello! Lija
 
 ### Program Description:
 
@@ -68,7 +68,7 @@ Two GitHub Issues were created and managed to simulate real-world collaboration:
 
 | Issue | Assigned To | Description | Status |
 |:------|:-------------|:-------------|:--------|
-| #1 Add installation instructions to README | Benign John | Documented setup steps and usage guide | ✅ Closed |
+| #1 Add installation instructions to README | Lija | Documented setup steps and usage guide | ✅ Closed |
 | #2 Improve Hello World feature with user input | Chukwuemeka Kingsley | Enhanced the program to personalize greetings | ✅ Closed |
 
 ---
